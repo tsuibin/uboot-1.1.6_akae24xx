@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin
+END
+gcc-linux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc-linux.sh
+END
+set-vars-beos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/set-vars-beos.sh
+END
+wc10ao32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10ao32.bat
+END
+wc10-d32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-d32.bat
+END
+wc11-d32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-d32.bat
+END
+cddrv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/cddrv.bat
+END
+vc60-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-c32.bat
+END
+vc60-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-d16.bat
+END
+wc10aw32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10aw32.bat
+END
+bc45-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-w16.bat
+END
+gcc-freebsd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc-freebsd.sh
+END
+bcb5-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-snp.bat
+END
+vc60-drvnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-drvnt.bat
+END
+bcb5-vxd.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-vxd.bat
+END
+wc10-p32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-p32.bat
+END
+wc10-o16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-o16.bat
+END
+wc11-p32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-p32.bat
+END
+wc11-o16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-o16.bat
+END
+bc50-d32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-d32.bat
+END
+vc50-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-tnt.bat
+END
+bc31-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc31-d16.bat
+END
+wc10-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-w16.bat
+END
+vc60-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-x11.bat
+END
+w2kddk.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/w2kddk.bat
+END
+wc11-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-w16.bat
+END
+vc60-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-w32.bat
+END
+vc40-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-w16.bat
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/build
+END
+qnxnto.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/qnxnto.sh
+END
+bc45-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-snp.bat
+END
+vc60-drvw2k.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-drvw2k.bat
+END
+bc45-vxd.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-vxd.bat
+END
+bc50-smx.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-smx.bat
+END
+qnx4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/qnx4.sh
+END
+bcb5-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-c32.bat
+END
+wc10atnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10atnt.bat
+END
+gcc2-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc2-c32.bat
+END
+bcb5-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-d16.bat
+END
+bc50-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-w16.bat
+END
+build_db.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/build_db.bat
+END
+win32sdk.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/win32sdk.bat
+END
+makelib.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/makelib.bat
+END
+set-vars-linux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/set-vars-linux.sh
+END
+vc50-drvnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-drvnt.bat
+END
+wc10-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-snp.bat
+END
+wc11-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-snp.bat
+END
+vc40-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-snp.bat
+END
+gcc2-linux.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc2-linux.bat
+END
+set-vars-qnx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/set-vars-qnx.sh
+END
+wc10-qnx.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-qnx.bat
+END
+cdit
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/cdit
+END
+wc11-qnx.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-qnx.bat
+END
+set-vars-freebsd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/set-vars-freebsd.sh
+END
+vc60-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-tnt.bat
+END
+bc45-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-c32.bat
+END
+bcb5-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-x11.bat
+END
+wc10ad32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10ad32.bat
+END
+bcb5-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-w32.bat
+END
+bc45-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-d16.bat
+END
+djgpp.env
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/djgpp.env
+END
+bc50-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-snp.bat
+END
+gcc2-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc2-w32.bat
+END
+vc60-drv9x.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-drv9x.bat
+END
+vc50-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-w16.bat
+END
+bc50-vxd.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-vxd.bat
+END
+wc10-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-c32.bat
+END
+wc10ap32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10ap32.bat
+END
+wc11-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-c32.bat
+END
+wc10ao16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10ao16.bat
+END
+vc40-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-c32.bat
+END
+wc10-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-d16.bat
+END
+wc11-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-d16.bat
+END
+ntddk.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/ntddk.bat
+END
+vc40-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-d16.bat
+END
+bc45-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-w32.bat
+END
+vc40-drvnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-drvnt.bat
+END
+wc10aw16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10aw16.bat
+END
+vc50-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-snp.bat
+END
+wc10-o32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-o32.bat
+END
+wc11-o32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-o32.bat
+END
+bc50-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-c32.bat
+END
+findint3.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/findint3.bat
+END
+bcb5-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-tnt.bat
+END
+bc50-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-d16.bat
+END
+wc10-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-x11.bat
+END
+wc11-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-x11.bat
+END
+vc40-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-x11.bat
+END
+wc10-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-w32.bat
+END
+vc50-rtt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-rtt.bat
+END
+wc11-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-w32.bat
+END
+vc40-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-w32.bat
+END
+gcc-beos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc-beos.sh
+END
+vc50-drv9x.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-drv9x.bat
+END
+vc60-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-w16.bat
+END
+djgpp_db.env
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/djgpp_db.env
+END
+build_it.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/build_it.bat
+END
+wc10asnp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10asnp.bat
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/build.bat
+END
+bc45-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-tnt.bat
+END
+bc50-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-x11.bat
+END
+bcb5-d32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-d32.bat
+END
+gcc2-dos.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/gcc2-dos.bat
+END
+bc50-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-w32.bat
+END
+vc50-c32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-c32.bat
+END
+set-vars.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/set-vars.bat
+END
+vc50-d16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-d16.bat
+END
+vc60-snp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc60-snp.bat
+END
+wc10-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10-tnt.bat
+END
+wc11-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc11-tnt.bat
+END
+vc40-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-tnt.bat
+END
+bcb5-smx.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-smx.bat
+END
+bc45-d32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc45-d32.bat
+END
+wc10ac32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10ac32.bat
+END
+cdit.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/cdit.bat
+END
+meltobjs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/meltobjs.sh
+END
+vc50-x11.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-x11.bat
+END
+bcb5-w16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bcb5-w16.bat
+END
+wc10ad16.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/wc10ad16.bat
+END
+vc50-w32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc50-w32.bat
+END
+vc40-drv9x.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/vc40-drv9x.bat
+END
+bc50-tnt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/bin/bc50-tnt.bat
+END
